@@ -1,5 +1,4 @@
 # Data-Science-Tasks
-Tasks for the Data Science Vacancy
 
 ## Arabic Handwritten Character Recognition
 Recognize an Arabic handwritten character using Neural Network.
